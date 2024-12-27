@@ -24,8 +24,7 @@
 [<code><img height="20" src="https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white"></code>](https://steamcommunity.com/id/thejoaosv)
 [<code><img height="20" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></code>](https://discord.gg/lionsrp)
 [<code><img height="20" src="https://img.shields.io/badge/PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white"></code>](https://paypal.me/thejoaosv?country.x=PT&locale.x=pt_PT)
-[<code><img height="20" src="https://img.shields.io/twitch/status/thejoaosv
-&logo=twitch&logoColor=white"></code>](https://twitch.tv/thejoaosv/)
+[<code><img height="20" src="https://img.shields.io/twitch/status/thejoaosv"></code>](https://twitch.tv/thejoaosv/)
 
 <!---
 Joaocelos/Joaocelos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
